@@ -1,0 +1,16 @@
+# 生成物 / 缓存
+__pycache__/
+*.pyc
+
+# 生成的数据文件（由 crawler/augment/redeem/bayestime 产出）
+*.xlsx
+*.png
+
+# 配置文件中的凭据（含集思录账号密码）
+jisilu_config.json
+
+# Claude Code 本地设置
+.claude/
+
+# 办公软件锁文件
+.~lock.*

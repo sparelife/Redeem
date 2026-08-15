@@ -1,0 +1,6 @@
+{
+  "draws": 100,
+  "tune": 100,
+  "chains": 2,
+  "random_seed": 42
+}
